@@ -1,3 +1,3 @@
-This work can be used and modified freely, including for commercial purposes, without requiring attribution. However, claiming original authorship of unmodified portions is prohibited.
+This work can be used and modified freely, including for commercial purposes requiring attribution.
 
 Copyright (c) 2025 PolyCat
