@@ -5,7 +5,7 @@ baseURL = "https://blog.jellycat.cafe"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "The JellyCat Cafe Blog"
+title = "JellyCat Cafe Blog"
 author = "PolyCat"
 copyright = "Copyright © 2025, PolyCat."
 languageCode = "en-US"
