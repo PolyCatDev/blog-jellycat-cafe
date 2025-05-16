@@ -13,7 +13,7 @@ tags:
 
 # Intro
 
-If you've ever launched an older OpenGL game or played a game bundled as a Flatpak on a hybrid laptop running Linux, you might have noticed those games use the integrated graphics instead of the perfectly fine dedicated GPU in your system.
+If you've ever launched an older OpenGL game or played a game bundled as a Flatpak on a hybrid laptop running Linux, you might have noticed that those games use the integrated graphics instead of the perfectly fine dedicated GPU in your system.
 
 If you're in this scenario, I have something that might help: `DRI_PRIME=1`
 
