@@ -16,7 +16,7 @@ Here's the email I received. I know, very convincing :33
 
 # The Malware
 
-Just your bog standard bot email. But attached to it was a little treat named `ENQ1825.txz`. So I went over to [tria.ge](https://tria.ge/), fired up a VM and got back a nice 10 out 10. That's some malware alright.
+Just your bog standard bot email. But attached to it was a little treat named `ENQ1825.txz`. So I went over to [tria.ge](https://tria.ge/), fired up a VM and got back a nice 10 out of 10 danger level. That's some malware alright.
 
 Apparently it's a [Trojan](https://en.wikipedia.org/wiki/Trojan_horse_(computing)), [Spyware](https://en.wikipedia.org/wiki/Spyware), [RAT](https://en.wikipedia.org/wiki/Remote_desktop_software#RAT) and an [Infostealer](https://en.wikipedia.org/wiki/Infostealer).
 
