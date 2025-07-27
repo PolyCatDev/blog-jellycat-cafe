@@ -12,3 +12,7 @@ Hi I'm PolyCat and welcome to my blog. Here you will find my ramblings about thi
 - [Hugo ʕ•ᴥ•ʔ Bear](https://github.com/janraasch/hugo-bearblog/) for making this great [Hugo](https://gohugo.io/) theme.
 - [Gruvbox](https://github.com/morhetz/gruvbox) for dark mode colors.
 - [Rose Pine](https://rosepinetheme.com/) for light mode colors.
+
+---
+
+All posts are under the [CC BY](https://creativecommons.org/licenses/by/4.0/) license.
