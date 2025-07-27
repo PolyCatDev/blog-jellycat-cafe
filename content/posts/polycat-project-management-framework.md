@@ -5,7 +5,6 @@ description: A general overview for a Git based project management system
 tags:
   - organization
   - system
-  - git
 ---
 # The Core 
 - The core system will center around a git host (Example: [GitTea](https://about.gitea.com/)) and [Markdown](https://www.markdownguide.org/).

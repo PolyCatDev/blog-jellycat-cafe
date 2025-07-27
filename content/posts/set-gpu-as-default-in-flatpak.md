@@ -6,7 +6,6 @@ description: A quick guide to setting your dedicated GPU as default for apps in 
 tags:
 
 - linux
-- gpu
 - guide
 
 ---

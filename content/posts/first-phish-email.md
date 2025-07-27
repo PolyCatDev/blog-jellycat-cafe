@@ -2,7 +2,6 @@
 tags:
   - cyber-security
   - phishing
-  - email
 title: My first phishing email
 date: 2025-04-12
 ---
